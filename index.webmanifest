@@ -2,8 +2,8 @@
   "name": "Physical Oceanography Numerical Group (PONG)",
   "short_name": "Physical Oceanography Numerical Group (PONG)",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "rgb(0, 136, 204)",
+  "background_color": "rgb(0, 136, 204)",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
