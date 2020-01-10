@@ -26,63 +26,7 @@
       <link>https://pong-tamu.github.io/authors/arthur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pong-tamu.github.io/authors/arthur/</guid>
-      <description>&lt;h1 id=&#34;display-name&#34;&gt;Display name&lt;/h1&gt;
-&lt;p&gt;name: Arthur Eduardo Amaral Ramos&lt;/p&gt;
-&lt;h1 id=&#34;username-this-should-match-the-folder-name&#34;&gt;Username (this should match the folder name)&lt;/h1&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;arthur&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;is-this-the-primary-user-of-the-site&#34;&gt;Is this the primary user of the site?&lt;/h1&gt;
-&lt;p&gt;superuser: false&lt;/p&gt;
-&lt;h1 id=&#34;roleposition&#34;&gt;Role/position&lt;/h1&gt;
-&lt;p&gt;role: Junior Research Engineer&lt;/p&gt;
-&lt;h1 id=&#34;organizationsaffiliations&#34;&gt;Organizations/Affiliations&lt;/h1&gt;
-&lt;p&gt;organizations:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;name: Barcelona Supercomputing Center
-url: &amp;ldquo;&lt;a href=&#34;https://www.bsc.es/%22&#34;&gt;https://www.bsc.es/&amp;quot;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;short-bio-displayed-in-user-profile-at-end-of-posts&#34;&gt;Short bio (displayed in user profile at end of posts)&lt;/h1&gt;
-&lt;p&gt;bio:&lt;/p&gt;
-&lt;p&gt;education:
-courses:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;course: M.Sc. Oceanography
-institution: Texas A&amp;amp;M University
-year: 2016&lt;/li&gt;
-&lt;li&gt;course: B.Sc. in Oceanography
-institution: Universidade Federal do Rio Grande (FURG)
-year: 2012&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;socialacademic-networking&#34;&gt;Social/Academic Networking&lt;/h1&gt;
-&lt;h1 id=&#34;for-available-icons-see-httpssourcethemescomacademicdocswidgetsicons&#34;&gt;For available icons, see: &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/#icons&#34;&gt;https://sourcethemes.com/academic/docs/widgets/#icons&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;for-an-email-link-use-fas-icon-pack-envelope-icon-and-a-link-in-the&#34;&gt;For an email link, use &amp;ldquo;fas&amp;rdquo; icon pack, &amp;ldquo;envelope&amp;rdquo; icon, and a link in the&lt;/h1&gt;
-&lt;h1 id=&#34;form-mailtoyour-emailexamplecom-or-contact-for-contact-widget&#34;&gt;form &amp;ldquo;mailto:your-email@example.com&amp;rdquo; or &amp;ldquo;#contact&amp;rdquo; for contact widget.&lt;/h1&gt;
-&lt;p&gt;social:
-#- icon: twitter&lt;/p&gt;
-&lt;h1 id=&#34;icon_pack-fab&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;links-httpstwittercomthyngkm&#34;&gt;links: &lt;a href=&#34;https://twitter.com/thyngkm&#34;&gt;https://twitter.com/thyngkm&lt;/a&gt;&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;icon: envelope
-icon_pack: fas
-link: &amp;lsquo;mailto:arthur.amaral@bsc.es&amp;rsquo;  # For a direct email link, use &amp;ldquo;mailto:test@example.org&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;icon: researchgate
-icon_pack: ai
-link: &lt;a href=&#34;https://www.researchgate.net/profile/Arthur_Ramos&#34;&gt;https://www.researchgate.net/profile/Arthur_Ramos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;link-to-a-pdf-of-your-resumecv-from-the-about-widget&#34;&gt;Link to a PDF of your resume/CV from the About widget.&lt;/h1&gt;
-&lt;h1 id=&#34;to-enable-copy-your-resumecv-to-staticfilescvpdf-and-uncomment-the-lines-below&#34;&gt;To enable, copy your resume/CV to &lt;code&gt;static/files/cv.pdf&lt;/code&gt; and uncomment the lines below.&lt;/h1&gt;
-&lt;h1 id=&#34;enter-email-to-display-gravatar-if-gravatar-enabled-in-config&#34;&gt;Enter email to display Gravatar (if Gravatar enabled in Config)&lt;/h1&gt;
-&lt;p&gt;email: &amp;quot;&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;organizational-groups-that-you-belong-to-for-people-widget&#34;&gt;Organizational groups that you belong to (for People widget)&lt;/h1&gt;
-&lt;h1 id=&#34;set-this-to--or-comment-out-if-you-are-not-using-people-widget&#34;&gt;Set this to &lt;code&gt;[]&lt;/code&gt; or comment out if you are not using People widget.&lt;/h1&gt;
-&lt;p&gt;user_groups:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Alumni&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
