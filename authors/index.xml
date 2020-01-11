@@ -58,6 +58,15 @@
     
     <item>
       <title></title>
+      <link>https://pong-tamu.github.io/authors/lixin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pong-tamu.github.io/authors/lixin/</guid>
+      <description>&lt;p&gt;I am a coastal physical oceanographer specializing in submesoscale (0.1-10 km) processes with an interest in interdisciplinary research linking fluid dynamics to biogeochemistry in the coastal environment. I am also a big fan of turbulent and mixing processes in coastal zones. I use a hierarchy of ocean modeling tools, including &lt;a href=&#34;https://www.myroms.org/&#34;&gt;ROMS&lt;/a&gt; (RANS), &lt;a href=&#34;https://github.com/johnryantaylor/DIABLO&#34;&gt;DIABLO&lt;/a&gt; (LES), &lt;a href=&#34;http://dedalus-project.org/&#34;&gt;DEDALUS&lt;/a&gt; (CFD solver in spectral methods), and &lt;a href=&#34;http://www.gotm.net/&#34;&gt;GOTM&lt;/a&gt; (turbulence model), to combine with theories to explore coastal oceans. I received my Ph.D. in oceanography under the supervision of &lt;a href=&#34;https://ocean.tamu.edu/people/profiles/faculty/hetlandrobert.html&#34;&gt;Prof. Robert Hetland&lt;/a&gt; at &lt;a href=&#34;https://www.tamu.edu/&#34;&gt;Texas A&amp;amp;M University&lt;/a&gt; and currently work with &lt;a href=&#34;https://profiles.stanford.edu/leif-thomas&#34;&gt;Prof. Leif Thomas&lt;/a&gt; as a postdoctoral research fellow at &lt;a href=&#34;https://www.stanford.edu/&#34;&gt;Stanford University&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://pong-tamu.github.io/authors/rob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://pong-tamu.github.io/authors/rob/</guid>
