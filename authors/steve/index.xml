@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Physical Oceanography Numerical Group (PONG)</title>
+    <title>PONG</title>
     <link>https://pong-tamu.github.io/authors/steve/</link>
       <atom:link href="https://pong-tamu.github.io/authors/steve/index.xml" rel="self" type="application/rss+xml" />
-    <description>Physical Oceanography Numerical Group (PONG)</description>
+    <description>PONG</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://pong-tamu.github.io/img/icon-192.png</url>
-      <title>Physical Oceanography Numerical Group (PONG)</title>
+      <title>PONG</title>
       <link>https://pong-tamu.github.io/authors/steve/</link>
     </image>
     
